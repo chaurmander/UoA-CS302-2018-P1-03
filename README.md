@@ -1,3 +1,4 @@
+Created by Raymond Chau and Jonathan Venema
 How to run program:
 
 	Open Eclipse(java)
