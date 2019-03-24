@@ -1,5 +1,5 @@
 Created by Raymond Chau and Jonathan Venema
-How to run program:
+	How to run program:
 
 	Open Eclipse(java)
 	Use the working directory of your choice
